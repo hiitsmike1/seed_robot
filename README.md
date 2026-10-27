@@ -1,4 +1,4 @@
-# Autonomous Seed-Planting Robot Firmware
+# Autonomous Seed-Planting Robot Code
 
 Arduino Mega firmware for an autonomous over-terrain vehicle (OTV) developed for the ENES100 engineering design project at the University of Maryland.
 
